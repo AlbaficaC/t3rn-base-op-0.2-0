@@ -4,10 +4,8 @@
 SCRIPT_PATH="$HOME/t3rn-bot.sh"
 
 # 定义仓库地址和目录名称
-REPO_URL="https://github.com/AlbaficaC/t3rn-base-op-0.2-
-.git"
-DIR_NAME="t3rn-base-op-0.2-
-"
+REPO_URL="https://github.com/AlbaficaC/t3rn-base-op-0.2-0.git"
+DIR_NAME="t3rn-base-op-0.2-0"
 PYTHON_FILE="keys_and_addresses.py"
 DATA_BRIDGE_FILE="data_bridge.py"
 BOT_FILE="bot.py"
